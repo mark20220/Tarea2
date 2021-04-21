@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Punto
+comment0.text=\r\n\ clase\ Punto\ (x,\ y)\r\n\ \r\n\ Mark\r\n\ 20/04/2021\r\n
+comment1.params=X\ Y
+comment1.target=Punto(int,\ int)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+numComments=4

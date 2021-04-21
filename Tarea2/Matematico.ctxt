@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Matematico
+comment0.text=\r\n\ Dados\ tres\ n\u00FAmeros\:\ El\ matem\u00E1tico\ sabe\ indicar\ cual\ es\ el\ numero\ mayor,\ cual\ el\ menor\ y\r\n\ cual\ del\ medio.\r\n\ Dados\ la\ base\ y\ altura\ de\ un\ cuadrado\:\ El\ sabe\ indicar\ el\ \u00E1rea\ de\ dicha\ figura.\r\n\ Dados\ las\ coordenadas\ de\ dos\ puntos\:\ Sabe\ calcular\ distancia\ entre\ estos\ puntos.\r\n\ Dado\ las\ coordenadas\ de\ un\ punto\:\ Es\ capaz\ de\ indicar\ en\ que\ cuadrante\ se\ encuentra\ dicho\r\n\ punto.\r\n\ \r\n\ Mark\ \r\n\ 20/04/2021\r\n
+comment1.params=Num1\ Num2\ Num3
+comment1.target=Triple\ DarMayMedMen(int,\ int,\ int)
+comment2.params=Base\ Altura
+comment2.target=int\ DarArea(int,\ int)
+comment3.params=P1\ P2
+comment3.target=double\ DarDistancia(Punto,\ Punto)
+comment4.params=P
+comment4.target=java.lang.String\ DarCuadrante(Punto)
+numComments=5
